@@ -1,0 +1,16 @@
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.csproj.AssemblyReference.cache
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.AssemblyInfoInputs.cache
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.AssemblyInfo.cs
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.exe
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.deps.json
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.runtimeconfig.json
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.runtimeconfig.dev.json
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.dll
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ref\ıf-elseif.dll
+C:\Users\Kadir\ıf-elseif\bin\Debug\net5.0\ıf-elseif.pdb
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.dll
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ref\ıf-elseif.dll
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.pdb
+C:\Users\Kadir\ıf-elseif\obj\Debug\net5.0\ıf-elseif.genruntimeconfig.cache
